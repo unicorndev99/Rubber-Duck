@@ -1,0 +1,12 @@
+.introduction {
+    display: block;
+    margin-bottom: 40px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.introduction h1 {
+    font-size: 44px;
+}

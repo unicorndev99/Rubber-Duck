@@ -1,0 +1,36 @@
+.stretchgoals {
+    display: block;
+    margin-bottom: 40px;
+    padding-top: 40px;
+}
+
+.w-list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.stretch-goals {
+    text-align: left;
+    padding: 10px 0px 10px;
+    margin-top: 32px;
+}
+.stretchgoalsubheading {
+    font-family: 'Open Sans', sans-serif;
+    color: #ddce00;
+    font-size: 20px;
+}
+
+.stretchgoalcontent {
+    font-family: 'Open Sans', sans-serif;
+    color: #cbcbcb;
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 12px;
+}
+
+.image-22 {
+    width: 375px;
+    
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
